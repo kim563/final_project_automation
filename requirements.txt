@@ -1,5 +1,6 @@
 python_dateutil==2.9.0.post0
 Requests==2.32.3
-selenium==4.23.0
-webdriver_manager==4.0.1
+selenium==4.23.1
+webdriver_manager==4.0.2
 pytest==8.2.1
+allure_python_commons==2.13.5
